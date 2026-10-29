@@ -1,0 +1,9 @@
+.env
+config.json
+state.json
+*.log
+__pycache__/
+*.tmp
+.DS_Store
+.venv/
+*.zip
